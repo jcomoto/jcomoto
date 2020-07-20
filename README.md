@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hello there! Nice to see you here
 
+I'm a front-end developer working with React, Redux and more cool stuff! Enjoying working with Typescript (and Javascript as well). Currently improving my skills as back-end developer using Node.js and learning about Docker and Kubernetes! (And sometimes a bit about cybersecurity)
+
+Coffee it not only fuel!! I enjoy brewing coffee with my AeroPress ☕️. Share me your gear and recipes!
+
+At nights, I like to play CoD: WZ, join me some time! 
+
+### Find me
+- **Twitter:** [@jcomoto](https://twitter.com/jcomoto)
+- **LinkedIn:** [Josue Comoto](https://www.linkedin.com/in/josue-comoto-254140a5/)
+- **Telegram:** [@JComoto](https://telegram.me/jcomoto)
 <!--
 **Stidro/Stidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
