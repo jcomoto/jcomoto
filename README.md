@@ -1,26 +1,10 @@
-## Hello there! Nice to see you here
+## Hello there!
 
-I'm a front-end developer working with React, Redux and more cool stuff! Enjoying working with Typescript (and Javascript as well). Currently improving my skills as back-end developer using Node.js and learning about Docker and Kubernetes! (And sometimes a bit about cybersecurity)
+I'm a front-end developer working with cool stuff! Enjoying working with Typescript (and Javascript as well).
 
-Coffee it not only fuel!! I enjoy brewing coffee with my AeroPress ☕️. Share me your gear and recipes!
-
-At nights, I like to play CoD: WZ, join me some time! 
+Coffee it not only fuel!! I enjoy brewing and tasting coffee from different regions.
 
 ### Find me
 - **Twitter:** [@jcomoto](https://twitter.com/jcomoto)
 - **LinkedIn:** [Josue Comoto](https://www.linkedin.com/in/josue-comoto-254140a5/)
-- **Telegram:** [@JComoto](https://telegram.me/jcomoto)
-<!--
-**Stidro/Stidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
